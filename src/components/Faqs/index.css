@@ -1,0 +1,30 @@
+/* Write your code here. */
+.faqs-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+  }
+  
+  .faqs-heading {
+    color: orange;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .faqs-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .php {
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+  
